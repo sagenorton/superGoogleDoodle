@@ -1,6 +1,6 @@
 # Super Mario Google Doodle
 
-This Google Doodle will have the pixel art of Super Mario using Tanooki Mario as the main character. Tanooki will come up out of the pipe on the left and begin to punch the blocks above to reveal each letter of "Google". As he punches a block, it will break and then reveal a letter. The last block is a question block that a mushroom will emerge from once hit. The mushroom will make Tanooki grow in size and the question block turns into a normal block which Tanooki will then hit and break it to reveal the final letter of "Google".
+In this Google Doodle, we're bringing a piece of the classic Super Mario world to life with pixel art, featuring Tanooki Mario as the star. The scene starts with Tanooki Mario popping out of a pipe on the left. He immediately punches the '?' block, which releases a mushroom. As soon as Tanooki Mario catches the mushroom, he grows larger. He then uses his bigger size to jump up and hit the bricks above him, each hit revealing a letter of 'Google'. This sequence not only showcases a fun, interactive Mario adventure but also creatively incorporates the Google brand into this nostalgic video game setting.
 
 ## Collage
 
@@ -8,4 +8,5 @@ This Google Doodle will have the pixel art of Super Mario using Tanooki Mario as
 
 ## Resources
 >Super Mario SVGs (https://www.figma.com/file/n56uDYBbCDkAxpoTMRfwJE/Mario-Maker-(Community)?type=design&node-id=0%3A1&mode=design&t=fw4Ewz12Yq2od0A5-1)
+
 >Super Mario Font (https://www.fontbolt.com/font/super-mario-font/)
