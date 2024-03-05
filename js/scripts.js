@@ -1,3 +1,24 @@
+document.addEventListener('DOMContentLoaded', function() {
+    var audioPlayer = document.getElementById('audioPlayer');
+    var emojiButton = document.getElementById('emojiButton');
+
+    function updateEmoji() {
+        emojiButton.textContent = audioPlayer.paused ? '🔈' : '🔇';
+    }
+
+    emojiButton.addEventListener('click', function() {
+        if (audioPlayer.paused) {
+            audioPlayer.play();
+        } else {
+            audioPlayer.pause();
+        }
+        updateEmoji();
+    });
+
+    updateEmoji();
+});
+
+
 var tl = gsap.timeline({delay: 2});
 tl.to("#Tanooki", {x: 120, duration: 1});
 tl.to("#Tanooki", {y: -50, duration: .5});
@@ -37,4 +58,4 @@ tl.to("#Tanooki", {x: 625, duration: .5});
 tl.to("#Tanooki", {scaleX: -1.3, duration: .2});
 tl.to("#Tanooki", {scaleX: 1.3, duration: .2});
 tl.to("#Tanooki", {scaleX: -1.3, duration: .2});
-tl.to("#Tanooki", {x: 0, opacity: 0, duration: .75});
+tl.to("#Tanooki", {x: 0, duration: .75});

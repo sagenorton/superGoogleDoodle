@@ -15,6 +15,11 @@
   padding-right: 3px;
 }
 
+#emojiButton {
+  background: none;
+  border: none;
+}
+
 
 /* DO NOT EDIT BELOW THIS LINE */
 html, body { 
