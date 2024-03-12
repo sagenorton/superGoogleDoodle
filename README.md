@@ -10,3 +10,5 @@ In this Google Doodle, we're bringing a piece of the classic Super Mario world t
 >Super Mario SVGs (https://www.figma.com/file/n56uDYBbCDkAxpoTMRfwJE/Mario-Maker-(Community)?type=design&node-id=0%3A1&mode=design&t=fw4Ewz12Yq2od0A5-1)
 
 >Super Mario Font (https://www.fontbolt.com/font/super-mario-font/)
+
+>Super Mario Theme Song (https://youtu.be/NTa6Xbzfq1U?si=1eSnsPhvUywc0VFw)
