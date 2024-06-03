@@ -2,6 +2,9 @@ document.addEventListener('DOMContentLoaded', function() {
     var audioPlayer = document.getElementById('audioPlayer');
     var emojiButton = document.getElementById('emojiButton');
 
+    // Pause the audio player initially
+    audioPlayer.pause();
+
     function updateEmoji() {
         emojiButton.textContent = audioPlayer.paused ? '🔈' : '🔇';
     }
@@ -15,6 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
         updateEmoji();
     });
 
+    // Update the emoji initially
     updateEmoji();
 });
 
