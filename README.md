@@ -1,4 +1,4 @@
-# Super Mario Google Doodle
+# Super Google Doodle
 
 In this Google Doodle, we're bringing a piece of the classic Super Mario world to life with pixel art, featuring Tanooki Mario as the star. The scene starts with Tanooki Mario popping out of a pipe on the left. He immediately punches the '?' block, which releases a mushroom. As soon as Tanooki Mario catches the mushroom, he grows larger. He then uses his bigger size to jump up and hit the bricks above him, each hit revealing a letter of 'Google'. This sequence not only showcases a fun, interactive Mario adventure but also creatively incorporates the Google brand into this nostalgic video game setting.
 
