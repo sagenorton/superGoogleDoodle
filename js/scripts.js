@@ -1,26 +1,26 @@
-// document.addEventListener('DOMContentLoaded', function() {
-//     var audioPlayer = document.getElementById('audioPlayer');
-//     var emojiButton = document.getElementById('emojiButton');
+document.addEventListener('DOMContentLoaded', function() {
+    var audioPlayer = document.getElementById('audioPlayer');
+    var emojiButton = document.getElementById('emojiButton');
 
-//     // Pause the audio player initially
-//     audioPlayer.pause();
+    // Pause the audio player initially
+    audioPlayer.pause();
 
-//     function updateEmoji() {
-//         emojiButton.textContent = audioPlayer.paused ? '🔈' : '🔇';
-//     }
+    function updateEmoji() {
+        emojiButton.textContent = audioPlayer.paused ? '🔈' : '🔇';
+    }
 
-//     emojiButton.addEventListener('click', function() {
-//         if (audioPlayer.paused) {
-//             audioPlayer.play();
-//         } else {
-//             audioPlayer.pause();
-//         }
-//         updateEmoji();
-//     });
+    emojiButton.addEventListener('click', function() {
+        if (audioPlayer.paused) {
+            audioPlayer.play();
+        } else {
+            audioPlayer.pause();
+        }
+        updateEmoji();
+    });
 
-//     // Update the emoji initially
-//     updateEmoji();
-// });
+    // Update the emoji initially
+    updateEmoji();
+});
 
 
 var tl = gsap.timeline({delay: 2});
